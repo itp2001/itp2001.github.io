@@ -1,0 +1,12 @@
+h1 {color: darkgoldenrod; font-size: 22pt;} 
+p {color: darkgoldenrod; font-weight: bold;} 
+body { background: lightblue; 
+	     color: darkblue;
+	     font-size: 14pt;
+	     	font-family: 'Raleway'; 
+	   }
+nav a {	display: inline-block;
+        	border: 2px yellow;
+        	padding: 10px;
+		margin: 5px;
+		background: lightblue}
